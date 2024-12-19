@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'itsmehanok2001@gmail.com',
-    phone: '+918248465124',
-    address: '24 St Thomas Street Navalur, Chennai -603103',
-    github: 'https://github.com/Hanokkumar',
+    email: 'dhamukotti31799@gmail.com',
+    phone: '+916383527052',
+    address: '53,subramaniyarkovil street Kanchipuram 631502',
+    github: '#',
     facebook: '#',
-    linkedIn: 'https://www.linkedin.com/in/hanok-kumar-7767841b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
+    linkedIn: 'https://www.linkedin.com/in/dhamotharan-p-1001ab1b5/',
     twitter: '#',
     stackOverflow: '#',
-    devUsername: "Hanok"
+    devUsername: "Dhamotharan"
 }
